@@ -1,3 +1,3 @@
 # DevOps
 
-**_Meu primeiro contato com o repositorio remoto_**
+**Meu primeiro contato com o repositorio remoto**
